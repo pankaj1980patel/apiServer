@@ -29,3 +29,9 @@ vendor/
 # Build output
 bin/
 dist/
+
+# db
+storage
+
+#config
+/config
